@@ -19,4 +19,4 @@ MonoBehaviour:
   - int num = "12";
   - int num = 12;
   - int num = "12"
-  correctAnswerIndex: 2
+  correctAnswerIndex: 0
